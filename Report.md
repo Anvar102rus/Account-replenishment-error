@@ -6,14 +6,14 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Incorrect use of a variable in code](https://github.com/Anvar102rus/Account-replenishment-error/issues/1#issue-968909414)  
+* [Incorrect use of a variable in code](https://github.com/Anvar102rus/Account-replenishment-error/issues/2#issue-969143016)  
 
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 * артефакты тестирования не использовались
 
-В качестве тестовых данных использовались данные [Сайт Нетология Задача№1 Money Transfer](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
+В качестве тестовых данных использовались данные [Сайт Нетология Задача№1 Money Transfer](https://github.com/Anvar102rus/Account-replenishment-error/issues/2):
 * Ожидаемый результат: при воспроизведений кода видим верный вывод данных.
 
 Тестирование производилось в следующем окружении:
