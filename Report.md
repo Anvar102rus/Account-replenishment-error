@@ -6,7 +6,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Incorrect use of a variable in code](https://github.com/Anvar102rus/Account-replenishment-error/issues/2#issue-969143016)  
+* [Ошибка при пополнении счёта](https://github.com/Anvar102rus/Account-replenishment-error/issues/2#issue-969143016)  
 
 
 ## Описание процесса тестирования
